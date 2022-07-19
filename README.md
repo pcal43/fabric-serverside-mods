@@ -765,6 +765,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 |Lakotnik - Hunger Preview|[Modrinth](https://modrinth.com/mod/lakotnik) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lakotnik-hunger-preview)||
 |Monsters in the Closet|[Modrinth](https://modrinth.com/mod/monsters-in-the-closet) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet)||
 |Polydex|[Modrinth](https://modrinth.com/mod/polydex)||
+|Quicksort|[Modrinth](https://modrinth.com/mod/quicksort)||
 |Simple Right Click Harvest|[Modrinth](https://modrinth.com/mod/rch)||
 |Suitably Stackable Stew|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew)||
 |I Am Very Smart|[CurseForge](https://www.curseforge.com/minecraft/mc-mods/i-am-very-smart)|outdated|
